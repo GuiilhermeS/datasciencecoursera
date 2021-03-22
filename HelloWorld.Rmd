@@ -1,8 +1,6 @@
 ---
-title: "HelloWorld"
-author: "Me!"
-date: "22/03/2021"
-output: html_document
+title: "Hello World"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
